@@ -84,7 +84,7 @@ GitHub 리포 생성	push 완료	🟩 진행 중
 ⸻
 
 🔗 관련 링크
-	•	Spring Boot 공식 문서￼
+	•	[Spring Boot 공식 문서](https://spring.io/projects/spring-boot)
 	•	Week1 학습 플랜￼
 
 ⸻
@@ -93,12 +93,3 @@ GitHub 리포 생성	push 완료	🟩 진행 중
 Week2 – JPA 기반 CRUD API 구현 및 MySQL 연동
 
 ---
-
-커밋 메시지 예시:
-```bash
-git add README.md
-git commit -m "docs: add README for Week1"
-git push origin feature/week1
-
-README 추가 후 push가 끝나면 Week1 완료 보고를 할 수 있다.
-보고 형식으로 진행할까?
